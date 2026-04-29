@@ -45,22 +45,6 @@ O projeto foi construído com base em um tutorial do canal DevClub, com o objeti
 
 ---
 
-## 📂 Estrutura do projeto
-
-```bash
-site-nubank-dev-club/
-│
-├── index.html
-├── style.css
-│
-├── img/
-│   └── banner.png
-│
-└── README.md
-```
-
----
-
 ## 📦 Como executar
 
 1. Clone o repositório:
