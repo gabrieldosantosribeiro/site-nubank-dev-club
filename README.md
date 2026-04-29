@@ -40,7 +40,6 @@ O projeto foi construído com base em um tutorial do canal DevClub, com o objeti
 * Layout moderno inspirado em fintech
 * Estrutura de landing page
 * Seções organizadas e bem definidas
-* Interface responsiva
 * Destaque para elementos visuais e design
 
 ---
